@@ -1,5 +1,5 @@
 -- Настройки ссылок и файлов
-local raw_audio_url = "https://githubusercontent.com"
+local raw_audio_url = "https://github.com/twiceAA/Music_script_roblox_vibecode/raw/refs/heads/main/09624684deb3ada88cf5ee21c257fa45.ogg"
 local filename = "09624684deb3ada88cf5ee21c257fa45.ogg"
 
 -- 1. Скачивание файла через эксплоит (если его еще нет в папке workspace)
